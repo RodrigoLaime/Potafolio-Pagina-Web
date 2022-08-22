@@ -1,0 +1,51 @@
+@media (min-width: 1024px){
+.cabecera {
+    height: 80vh;
+}
+
+/*info de header*/
+
+.cabecera .menu a {
+    font-size: 1.6rem;
+}
+
+.info-header .info-content{
+    width: 50rem;
+    height: 18rem;
+    padding: 10px;
+    margin-right: 45rem;
+    margin-top: 20rem;
+}
+
+.info-header .info-content .content-img img{
+    width: 150px;
+}
+
+.content-title h1 {
+    font-size: 4rem;
+}
+.content-title h4 {
+    font-size: 3rem;
+}
+/*acerca de* MAIN*/
+main {
+    height: 140vh;
+}
+.acercade h3{
+    font-size: 2rem;
+} 
+.acercade p{
+    font-size: 1.6rem;
+}
+
+/*Trabajos-fotos*/
+
+.cont-trabajo .cont-img img{
+    width: 17rem;
+    margin: 0 20px;
+}
+/*Formulario*/
+.Formulario .contacto{
+    font-size: 2rem;
+}
+}

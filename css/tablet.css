@@ -1,0 +1,40 @@
+@media (min-width: 768px){
+    /*HEADER----------------------------------------------*/
+   .cabecera {
+    height: 65vh;
+   }
+   .info-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .info-header .info-content{
+    width: 40rem;
+    height: 15rem;
+    margin-right: 25rem;
+   }
+   .info-header .info-content .content-img{
+    width: 160px;
+   }
+   .info-header .info-content .content-img img{
+    width: 100%;
+   }
+   .content-title h1{
+    font-size: 3rem;
+   }
+   .content-title h4{
+    font-size: 2rem;
+   }
+
+
+   /*MAIN-------------------------------------------------*/
+   main{
+    height: 100vh;
+   }
+  
+   .cont-trabajo .cont-img img{
+    width: 11rem;
+    border: 10px solid rgba(255, 255, 255, 0.623);
+    margin: 0 40px;
+   }
+}
